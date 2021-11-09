@@ -2,7 +2,7 @@
 
 
 <p align="center">
- Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela Unip-GO. Estudando Front-end na Labenu , habilidade em desenvolvimento como HTML, CSS, JavaScript, Node,React, TypeScript, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
+ Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela Unip-GO. Estudando Front-end na Labenu , habilidade em desenvolvimento como HTML, CSS, JavaScript, Node, React, TypeScript, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
 </p>  
 
 <div align="center">
