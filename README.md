@@ -1,7 +1,5 @@
-<p align="center">
- 
-</p align="center">
-<!-- <img src="" /> -->
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 
 <p align="center">
  Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela Unip-GO. Estudando Front-end na Labenu , habilidade em desenvolvimento como HTML, CSS, JavaScript, Node, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
@@ -37,6 +35,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketrynsdm&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
 </p>
 
-<p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketrynsdm&layout=compact&langs_count=7&theme=dracula"/>
-</p> 
