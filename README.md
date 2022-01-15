@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
 <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB"/>
 </p>
 
 <h2 align="center">
