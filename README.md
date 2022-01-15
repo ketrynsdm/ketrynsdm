@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
+<img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest"/>
 </p>
 
 <h2 align="center">
