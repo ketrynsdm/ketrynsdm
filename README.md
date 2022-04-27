@@ -2,7 +2,7 @@
 
 
 <p align="center">
- Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela Unip-GO. Estudando Front-end na Labenu , habilidade em desenvolvimento como HTML, CSS, JavaScript, Node, React, TypeScript, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
+ Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela Unip-GO. Estudando Front-end na Labenu , habilidade em desenvolvimento como HTML, CSS, JavaScript, Node, React, Angular, TypeScript, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
 </p>  
 
 <div align="center">
@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
 <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest"/>
+<img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB"/>
 </p>
 
