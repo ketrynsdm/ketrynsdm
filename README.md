@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest"/>
 <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB"/>
+<img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql"/>
 </p>
 
 <h2 align="center">
