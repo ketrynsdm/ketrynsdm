@@ -2,7 +2,7 @@
 
 
 <p align="center">
- Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela faculdade Descomplica. Estudando Front-end na Labenu, habilidade em desenvolvimento como HTML, CSS, JavaScript, Node, React, Angular, TypeScript,Mysql, php, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
+ Sou estudante do curso de Analise e Desenvolvimento de Sistemas pela faculdade Descomplica. Estudando Front-end na escola de programação Labenu, habilidade em desenvolvimento como HTML, CSS, JavaScript, Node, React, Angular, TypeScript,Mysql, php, desenvolvimento de interface, desenvolvimento web sou apaixonada pela área de TI, foco meus estudos, mais sempre procurando aprender coisas novas.🤓
 </p>  
 
 <div align="center">
