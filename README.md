@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java"/>
+<img src="https://img.shields.io/badge/-React-Native-black?style=flat-square&logo=react-native"/>
 </p>
 
 <h2 align="center">
